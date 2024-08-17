@@ -39,6 +39,6 @@ public:
         {
             count++;
         }
-        return count==1;
+        return count<=1;
     }
 };*/
